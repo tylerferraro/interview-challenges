@@ -1,0 +1,3 @@
+[submodule "game_of_life"]
+	path = game_of_life
+	url = git@github.com:tylerferraro/game_of_life.git
