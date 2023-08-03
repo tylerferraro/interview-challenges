@@ -6,5 +6,5 @@ Some projects may also include a `roadmap` document describing next steps if the
 
 ## Coding Social Links
 
-[Codewars](https://www.codewars.com/users/TylerFerraro)
-[HackerRank](https://www.hackerrank.com/TylerFerraro)
+* [Codewars](https://www.codewars.com/users/TylerFerraro)
+* [HackerRank](https://www.hackerrank.com/TylerFerraro)
